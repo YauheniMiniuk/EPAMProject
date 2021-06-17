@@ -63,7 +63,7 @@ namespace EPAMProject
                 fileSize = fileStr.Length;
                 foreach (char sym in fileStr)
                 {
-                    if (sym >= 'A' && sym <= 'z')
+                    if ((sym >= 'A' && sym <= 'Z') || (sym >= 'a' && sym <= 'z'))
                     {
                         lettersCount++;
                         if (letters.ContainsKey(sym))
