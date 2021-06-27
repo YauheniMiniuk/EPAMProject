@@ -1,0 +1,15 @@
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.csprojAssemblyReference.cache
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.AssemblyInfoInputs.cache
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.AssemblyInfo.cs
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.csproj.CoreCompileInputs.cache
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\TextAnalizator.exe
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\TextAnalizator.deps.json
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\TextAnalizator.runtimeconfig.json
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\TextAnalizator.runtimeconfig.dev.json
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\TextAnalizator.dll
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\TextAnalizator.pdb
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.dll
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.pdb
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.genruntimeconfig.cache
+D:\EPAMProject\TextAnalizator\TextAnalizator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EPAMProject\TextAnalizator\TextAnalizator\obj\Debug\netcoreapp3.1\TextAnalizator.csproj.CopyComplete
