@@ -29,7 +29,6 @@ namespace TextAnalizator
             info.counts.Add("numbersCount", 0);
             info.counts.Add("wordsWithHyphen", 0);
             info.counts.Add("punctuations", 0);
-
             Console.WriteLine("Укажите путь к файлу:");
             string path = Console.ReadLine();
             info.filename = Path.GetFileName(path);
@@ -105,7 +104,7 @@ namespace TextAnalizator
                                 {
                                     currentNumber = currentNumber.Replace(",", string.Empty);
                                     currentNumber = currentNumber.Replace(".", string.Empty);
-                                    if (currentNumber.Length > 1)
+                                    if (currentNumber.Length > 0)
                                     {
                                         info.counts["numbersCount"]++;
                                     }
@@ -140,7 +139,7 @@ namespace TextAnalizator
                             }
                             currentNumber = currentNumber.Replace(",", string.Empty);
                             currentNumber = currentNumber.Replace(".", string.Empty);
-                            if (currentNumber.Length > 1)
+                            if (currentNumber.Length > 0)
                             {
                                 info.counts["numbersCount"]++;
                             }
